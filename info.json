@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "c37bcc3b0682194f99cb75ec2ecfef3b8dfa286a",
+    "author": "Carl Boettiger <cboettig@gmail.com>",
+    "time": "2021-03-23 02:37:34",
+    "files": 4,
+    "merge": true,
+    "message": "Merge pull request #34 from ropensci/patch/rappdirs\n\nfix link"
+  },
+  "remote": "https://github.com/ropensci/virtuoso",
+  "pkg": "virtuoso"
+}
