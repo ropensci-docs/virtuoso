@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "200c4b984ed3f4158ccc161c8ad2c686dc10eb24",
+    "author": "Carl <cboettig@gmail.com>",
+    "time": "2022-11-08 22:03:20",
+    "files": 2,
+    "merge": false,
+    "message": "@maelle finally I did this I think\n"
+  },
+  "repo": "https://github.com/ropensci/virtuoso",
+  "pkg": "virtuoso"
+}
