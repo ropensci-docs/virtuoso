@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "9e331a07d480658b8962e59bfd9d92f49dc86deb",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2025-04-29T13:21:46Z",
+    "files": 2,
+    "merge": false,
+    "message": "chore: register pkgdown deps in DESCRIPTION (#43)\n\n* Update _pkgdown.yml\n\n* Update DESCRIPTION"
+  },
+  "repo": "https://github.com/ropensci/virtuoso",
+  "pkg": "virtuoso",
+  "time": "2026-08-30T07:13:44Z"
+}
